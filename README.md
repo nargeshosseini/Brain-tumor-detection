@@ -101,6 +101,6 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
-- Dataset source: [Add your dataset source]
+- Dataset source:  https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 - Vision Transformer implementation based on the original paper: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
 - Transfer learning approach inspired by recent advances in medical image analysis
